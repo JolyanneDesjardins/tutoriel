@@ -11,4 +11,3 @@ On doit ensuite relier notre element a notre page où l´on veut que sa change.
 une fois qu´on a cliquer on peut choisir dans l´onglet a cote et changer les parametres comme changer la vitessea laquelle on change de page lorsqu'on clique.
 ## 
 
-
