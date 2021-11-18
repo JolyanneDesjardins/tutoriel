@@ -16,9 +16,9 @@ Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui appa
 
 ## 4- 
 
-![capture d'écran](media/capture_etape_3.gif)
+![capture d'écran](media/capture_3.gif)
 
-![capture d'écran](media/capture_etape_4.gif)
+![capture d'écran](media/capture_4.gif)
 
-![capture d'écran](media/capture_etape_5.gif)
+![capture d'écran](media/capture_5.gif)
 
