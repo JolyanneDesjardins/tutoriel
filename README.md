@@ -16,10 +16,10 @@ Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui appa
 
 ## 4- 
 
+![capture d'écran](media/ezgif.com-gif-maker7.gif)
 
 ![capture d'écran](media/ezgif.com-gif-maker1.gif)
 
-![capture d'écran](media/ezgif.com-gif-maker7.gif)
 ![capture d'écran](media/ezgif.com-gif-maker2.gif)
 
 
