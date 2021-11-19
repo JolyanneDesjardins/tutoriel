@@ -21,12 +21,12 @@ Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui appa
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
 ## 6-lier boutique
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
-## Menu hamburger
+## 7-Menu hamburger
 ![capture d'écran](media/ezgif.com-gif-maker22.gif)
-
+## 8- Logo
 ![capture d'écran](media/ezgif.com-gif-maker24.gif)
+## 9-
 
-![capture d'écran](media/ezgif.com-gif-maker13.gif)
 ![capture d'écran](media/ezgif.com-gif-maker14.gif)
 
 ![capture d'écran](media/ezgif.com-gif-maker17.gif)
