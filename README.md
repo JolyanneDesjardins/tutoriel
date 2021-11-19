@@ -29,6 +29,7 @@ On va faire la même chose avec boutique.
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
 
 ## 7- Menu hamburger
+
 On va relier le bouton du menu hamburger à la pager d'accuil
 ![capture d'écran](media/ezgif.com-gif-maker22.gif)
 
