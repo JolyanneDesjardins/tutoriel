@@ -4,12 +4,12 @@ Dans mon cas c'est 16edition_com_graphique.xd
  
 ## 2- Créer la planche
 
-on va copier collé la planche où on veut créé l'interactivité.
+On va copier coller la planche sur laquelle on veut créé l'interactivité.
 
 ![capture d'écran](media/capture_etape_1.gif)
 
 ## 3- Commencer l'interativité
-Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui apparait, dans mon cas je voulais faire apparaitre les filtres.
+Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui apparait, dans mon cas je veux faire apparaitre les filtres.
 
 
 ![capture d'écran etape 2](media/capture_etape_2.gif)
