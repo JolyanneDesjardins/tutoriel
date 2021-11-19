@@ -23,14 +23,14 @@ En se mettant en mode prototype, on va lier accueil à la page d'accueil.
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
 ## 6- Lier boutique
 On va faire la même chose avec boutique.
+
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
 ## 7- Menu hamburger
-
+On va relier le bouton du menu hamburger à la pager d'accuil
 ![capture d'écran](media/ezgif.com-gif-maker22.gif)
-## 8- Logo
-![capture d'écran](media/ezgif.com-gif-maker24.gif)
-## 9- Résultat
 
+## 8- Résultat
+On a lorsqu'on appui sur le bouton du menu hamburger on le voit apparaitre. 
 ![capture d'écran](media/ezgif.com-gif-maker14.gif)
 
 
