@@ -9,23 +9,24 @@ on va copier collé la planche où on veut créé l'interactivité.
 ![capture d'écran](media/capture_etape_1.gif)
 
 ## 3- Commencer l'interativité
-Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui apparaisse, dans mon cas je voulais faire apparaitre les filtres.
+Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui apparait, dans mon cas je voulais faire apparaitre les filtres.
 
 
 ![capture d'écran etape 2](media/capture_etape_2.gif)
 
 ## 4- Mettre le menu 
-On met le menu où l'on veut qu'il apparaisse.
+On met le menu où l'on veut qu'il apparait.
 
 ![capture d'écran](media/ezgif.com-gif-maker7.gif)
 
 ## 5- Lier la page accueil
-En se mettant en mode prototype, on va lier accueil à la page d'accueil.
+En se mettant en mode prototype, on va lier accueil à la page d'accueil du site.
 
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
 
 ## 6- Lier boutique
 On va faire la même chose avec boutique.
+
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
 
 ## 7- Menu hamburger
