@@ -1,8 +1,8 @@
 # tutorial pour crée de l'interactivité sur xd
-## 1-Ouvrir le fichier dans xd
+## 1- Ouvrir le fichier dans xd
 Dans mon cas c'est 16edition_com_graphique.xd
  
-## 2- Crér la nouvelle planche
+## 2- Créer la nouvelle planche
 
 on va copier collé la planche où on veut créé l'interactivité.
 
