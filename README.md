@@ -1,4 +1,4 @@
-# tutorial pour crée de l'interactivité sur xd
+# Tutoriel pour créer de l'interactivité sur XD
 ## 1- Ouvrir le fichier dans xd
 Dans mon cas c'est 16edition_com_graphique.xd
  
