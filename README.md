@@ -23,23 +23,18 @@ animer page d'accueil
 ![capture d'écran](media/ezgif.com-gif-maker2.gif)
 
 j
-![capture d'écran](media/ezgif.com-gif-maker8.gif)
-l
-![capture d'écran](media/ezgif.com-gif-maker9.gif)
-g
-![capture d'écran](media/ezgif.com-gif-maker10.gif)
+
 ![capture d'écran](media/ezgif.com-gif-maker11.gif)
 ![capture d'écran](media/ezgif.com-gif-maker12.gif)
 ![capture d'écran](media/ezgif.com-gif-maker13.gif)
 ![capture d'écran](media/ezgif.com-gif-maker14.gif)
-![capture d'écran](media/ezgif.com-gif-maker15.gif)
-![capture d'écran](media/ezgif.com-gif-maker16.gif)
+)
 ![capture d'écran](media/ezgif.com-gif-maker17.gif)
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
-![capture d'écran](media/ezgif.com-gif-maker19.gif)
+
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
-![capture d'écran](media/ezgif.com-gif-maker21.gif)
+
 ![capture d'écran](media/ezgif.com-gif-maker22.gif)
-![capture d'écran](media/ezgif.com-gif-maker23.gif)
+
 ![capture d'écran](media/ezgif.com-gif-maker24.gif)
 
