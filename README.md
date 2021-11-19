@@ -2,7 +2,7 @@
 ## 1- Ouvrir le fichier dans xd
 Dans mon cas c'est 16edition_com_graphique.xd
  
-## 2- Créer la nouvelle planche
+## 2- Créer la planche
 
 on va copier collé la planche où on veut créé l'interactivité.
 
@@ -16,15 +16,18 @@ Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui appa
 
 ## 4- Mettre le menu 
 On met le menu où l'on veut qu'il apparaisse.
+
 ![capture d'écran](media/ezgif.com-gif-maker7.gif)
 
 ## 5- Lier la page accueil
 En se mettant en mode prototype, on va lier accueil à la page d'accueil.
+
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
+
 ## 6- Lier boutique
 On va faire la même chose avec boutique.
-
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
+
 ## 7- Menu hamburger
 On va relier le bouton du menu hamburger à la pager d'accuil
 ![capture d'écran](media/ezgif.com-gif-maker22.gif)
