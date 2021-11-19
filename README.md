@@ -21,7 +21,7 @@ Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui appa
 ![capture d'écran](media/ezgif.com-gif-maker2.gif)
 
 
-![capture d'écran](media/ezgif.com-gif-maker12.gif)
+
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
 
