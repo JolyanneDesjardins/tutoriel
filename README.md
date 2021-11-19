@@ -18,13 +18,13 @@ Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui appa
 
 
 ![capture d'écran](media/ezgif.com-gif-maker1.gif)
-![capture d'écran](media/ezgif.com-gif-maker(7).gif)
+![capture d'écran](media/ezgif.com-gif-maker.gif)
 
-![capture d'écran](media/ezgif.com-gif-maker(2).gif)
+![capture d'écran](media/ezgif.com-gif-maker2.gif)
 
-![capture d'écran](media/ezgif.com-gif-maker(7).gif)
-![capture d'écran](media/ezgif.com-gif-maker(8).gif)
-![capture d'écran](media/ezgif.com-gif-maker(9).gif)
+
+![capture d'écran](media/ezgif.com-gif-maker8.gif)
+![capture d'écran](media/ezgif.com-gif-maker9.gif)
 
 
 
