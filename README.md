@@ -9,7 +9,7 @@ on va copier collé la planche où on veut créé l'interactivité.
 ![capture d'écran](media/capture_etape_1.gif)
 
 ## 3- Commencer l'interativité
-Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui apparaisse dans mon cas je voulais faire apparaitre les filtres.
+Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui apparaisse, dans mon cas je voulais faire apparaitre les filtres.
 
 
 ![capture d'écran etape 2](media/capture_etape_2.gif)
