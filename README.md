@@ -14,14 +14,18 @@ Après avoir dupliqué la planche, on va ajouter l'élément qu'on veut qui appa
 
 ![capture d'écran etape 2](media/capture_etape_2.gif)
 
-## 4- Mettre la a page d'accueil
+## 4- Mettre le menu 
+On met le menu où l'on veut qu'il apparaisse.
 ![capture d'écran](media/ezgif.com-gif-maker7.gif)
 
 ## 5- Lier la page accueil
+En se mettant en mode prototype, on va lier accueil à la page d'accueil.
 ![capture d'écran](media/ezgif.com-gif-maker18.gif)
 ## 6- Lier boutique
+On va faire la même chose avec boutique.
 ![capture d'écran](media/ezgif.com-gif-maker20.gif)
 ## 7- Menu hamburger
+
 ![capture d'écran](media/ezgif.com-gif-maker22.gif)
 ## 8- Logo
 ![capture d'écran](media/ezgif.com-gif-maker24.gif)
