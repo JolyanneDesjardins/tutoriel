@@ -14,15 +14,11 @@ Après avoir dupliqué la planche, on va ajouté l'élément qu'on veut qui appa
 
 ![capture d'écran etape 2](media/capture_etape_2.gif)
 
-## 4- 
-Mettre la a page d'accueil
+## 4- Mettre la a page d'accueil
 ![capture d'écran](media/ezgif.com-gif-maker7.gif)
-animer page d'accueil
 
-
+## 5-lier la page accueil
 ![capture d'écran](media/ezgif.com-gif-maker2.gif)
-
-j
 
 
 ![capture d'écran](media/ezgif.com-gif-maker12.gif)
@@ -35,9 +31,9 @@ j
 
 ![capture d'écran](media/ezgif.com-gif-maker13.gif)
 ![capture d'écran](media/ezgif.com-gif-maker14.gif)
-)
+
 ![capture d'écran](media/ezgif.com-gif-maker17.gif)
 
 
-!
+
 
